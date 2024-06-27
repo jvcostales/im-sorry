@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background-color: #0a0605;
+}
+
+.jady {
+    font-size: 1.5rem;
+    color: #f0da25;
+}
+
+.links {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #fff;
+}
+
+.space1 {
+    height: 20px;
+}
+
+.space2 {
+    width: 20px;
+}
